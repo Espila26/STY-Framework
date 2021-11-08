@@ -1,0 +1,44 @@
+{
+    "FlowchartCurrentSteps":{
+        "CurrentStep":"",
+        "CurrentInStep":""
+    },
+
+    "ErrorHandling":{
+        "ErrorFlag":"",
+        "ErrorType":"",
+        "ErrorMessage":""
+    },
+
+    "DefaultConfiguration":{
+        "OrchestratorQueueName":"",
+        "OrchestratorFolderName":"",
+        "TransactionRetries":"",
+        "InitApplicationType":"",  
+        "BrowserName":"",
+        "DesktopProcessName":"",
+        "EmailFrom":"",
+        "EmailSuccessSubject":"",
+        "EmailBusExpSubject":"",
+        "EmailAppExpSubject":"",
+        "EmailBusExpBody":"",
+        "EmailAppExpBody":""
+    },
+
+    "ProjectSpecificsConfiguration":{
+        "EmailTo":"",
+        "EmailCC":"",
+        "EmaiBodyNotification":"",
+        "EmaiBodyReport":"",  
+        "LogMessage_GetTransactionData":"",
+        "LogMessage_GetTransactionDataError":"",
+        "LogMessage_Success":"",
+        "LogMessage_BusinessRuleException":"",
+        "LogMessage_ApplicationException":"",
+        "EmailAppExpSubject":"",
+
+        "BotAction":"",
+        "ContinuosFlag":""        
+    }
+
+} 
