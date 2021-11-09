@@ -1,15 +1,15 @@
 {
     "FlowchartCurrentSteps":{
-        "CurrentStep":"info",
+        "CurrentStep":"",
         "CurrentInStep":""
     },
     "ErrorHandling":{
-        "ErrorFlag":"error",
+        "ErrorFlag":"",
         "ErrorType":"",
         "ErrorMessage":""
     },
     "DefaultConfiguration":{
-        "OrchestratorQueueName":"test",
+        "OrchestratorQueueName":"",
         "OrchestratorFolderName":"",
         "TransactionRetries":"",
         "InitApplicationType":"",  
@@ -23,7 +23,7 @@
         "EmailAppExpBody":""
     },
     "ProjectSpecificsConfiguration":{
-        "EmailTo":"esteban.picado@stryker.com",
+        "EmailTo":"",
         "EmailCC":"",
         "EmaiBodyNotification":"",
         "EmaiBodyReport":"",  
