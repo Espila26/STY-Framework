@@ -6247,15 +6247,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Pc\\.nuget\\packages\\": {}
+    "C:\\Users\\epicado1\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "PE-AutomatioTeam-Framework",
       "projectName": "PE-AutomatioTeam-Framework",
-      "projectPath": "C:\\Users\\Pc\\Documents\\GitHub\\STY-Framework\\PE-AutomatioTeam-Framework\\.local",
-      "packagesPath": "C:\\Users\\Pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pc\\Documents\\GitHub\\STY-Framework\\PE-AutomatioTeam-Framework\\.local"
+      "projectPath": "C:\\Users\\epicado1\\Documents\\GitHub\\STY-Framework\\PE-AutomatioTeam-Framework\\.local",
+      "packagesPath": "C:\\Users\\epicado1\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\epicado1\\Documents\\GitHub\\STY-Framework\\PE-AutomatioTeam-Framework\\.local"
     },
     "frameworks": {
       "net461": {
@@ -6286,7 +6286,7 @@
             "version": "[1.9.2, 1.9.2]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\Pc\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\epicado1\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
       }
     },
     "runtimes": {

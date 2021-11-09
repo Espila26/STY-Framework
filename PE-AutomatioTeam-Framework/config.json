@@ -1,17 +1,19 @@
 {
     "FlowchartCurrentSteps":{
-        "CurrentStep":"info",
+        "CurrentStep":"",
         "CurrentInStep":""
     },
+
     "ErrorHandling":{
-        "ErrorFlag":"error",
+        "ErrorFlag":"",
         "ErrorType":"",
         "ErrorMessage":""
     },
+
     "DefaultConfiguration":{
-        "OrchestratorQueueName":"test",
-        "OrchestratorFolderName":"",
-        "TransactionRetries":"",
+        "OrchestratorQueueName":"Cash_App_Credit_Card_Medical",
+        "OrchestratorFolderName":"Shared/CashApp_Medical",
+        "TransactionRetries":"1",
         "InitApplicationType":"",  
         "BrowserName":"",
         "DesktopProcessName":"",
@@ -22,8 +24,9 @@
         "EmailBusExpBody":"",
         "EmailAppExpBody":""
     },
+
     "ProjectSpecificsConfiguration":{
-        "EmailTo":"esteban.picado@stryker.com",
+        "EmailTo":"",
         "EmailCC":"",
         "EmaiBodyNotification":"",
         "EmaiBodyReport":"",  
@@ -33,7 +36,9 @@
         "LogMessage_BusinessRuleException":"",
         "LogMessage_ApplicationException":"",
         "EmailAppExpSubject":"",
+        "BatchID":"",
+
         "BotAction":"",
         "ContinuosFlag":""        
     }
-} 
+}
